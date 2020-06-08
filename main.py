@@ -4,7 +4,6 @@ from sys import exit         #导入sys库中的exit函数
 import random
 import codecs
 
-
 #设置游戏屏幕大小
 SCREEN_WIDTH=480
 SCREEN_HEIGHT=800
